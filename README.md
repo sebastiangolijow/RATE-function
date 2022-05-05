@@ -1,4 +1,4 @@
-# RATE-function
+# EXCEL fuctions
 RATE function from Excel to JS
 
 
